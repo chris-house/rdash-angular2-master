@@ -1,5 +1,7 @@
 # Introduction
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/crh225/rdash-angular2-master.svg)](https://greenkeeper.io/)
+
 [AngularJS 2](https://angular.io/) implementation of the [RDash admin dashboard](http://rdash.github.io) theme
 
 > Responsive, bloat free, bootstrap powered admin style dashboard!
